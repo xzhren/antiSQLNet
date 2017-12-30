@@ -24,13 +24,13 @@ SQL Injection Detection Network
   - Bi-LSTM 95.375
 
 - 004#DLSTM-TensorBoard
-  - label vocab & label encoder & balanced sampel & padding & one-hot
+  - label vocab & label encoder & balanced sampele & padding & one-hot
   - Batcher 80% tain
   - Bi-LSTM & tensorboard 95.525
   - test accuracy & diff output
 
 - 005#bi-GRU
-  - label vocab & label encoder & balanced sampel & padding & one-hot
+  - label vocab & label encoder & balanced sampele & padding & one-hot
   - Batcher 80% tain
   - Bi-GRU & tensorboard 95.625
   - test accuracy & diff output

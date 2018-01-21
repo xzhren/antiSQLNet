@@ -3,3 +3,5 @@ data/
 .ipynb_checkpoints/
 
 logs/
+
+log.log
